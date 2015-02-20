@@ -1,5 +1,5 @@
 # Fill-a-Pix
-This project implements multiple algorithms and heuristics to solve [Fill-a-Pix puzzles](http://www.conceptispuzzles.com/index.aspx?uri=puzzle/fill-a-pix) done in the context of the artificial intelligence course at [IST](http://tecnico.ulisboa.pt/en/). Each Fill-a-Pix puzzle is represented as a [Constraint Satisfaction Problem (CSP)](http://en.wikipedia.org/wiki/Constraint_satisfaction_problem). The project included a theoretical analysis of the algorithms and heuristics through which was determined the best combination of algorithm and heuristics.
+This project was done in the context of the artificial intelligence course at [IST](http://tecnico.ulisboa.pt/en/) and consists in an implementation of multiple algorithms and heuristics to solve [Fill-a-Pix puzzles](http://www.conceptispuzzles.com/index.aspx?uri=puzzle/fill-a-pix). Each Fill-a-Pix puzzle is represented as a [Constraint Satisfaction Problem (CSP)](http://en.wikipedia.org/wiki/Constraint_satisfaction_problem). The project included a theoretical analysis of the algorithms and heuristics through which was determined the best combination of algorithm and heuristics.
 
 <h3> Search Algorithms </h3>
 
